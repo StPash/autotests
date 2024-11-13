@@ -1,0 +1,18 @@
+[
+  {
+    "first_name": "Timur",
+    "last_name": "Nodov",
+    "email": "tim@mail.ru",
+    "age": 26,
+    "salary": 70000,
+    "department": "HR"
+  },
+  {
+    "first_name": "Viktor",
+    "last_name": "Konik",
+    "email": "vik@mail.ru",
+    "age": 32,
+    "salary": 100000,
+    "department": "QA"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "simple_alert": "You clicked a button",
+  "confirm_alert": "Do you confirm action?",
+  "confirm_result_ok": "You selected Ok",
+  "prompt_alert": "Please enter your name"
+}
